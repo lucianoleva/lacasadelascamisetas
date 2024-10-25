@@ -1,0 +1,13 @@
+.neymar img {
+    width: 250px;  /* Cambia 100px por el tamaño deseado */
+    height: auto;  /* Mantiene la relación de aspecto */
+}
+
+.footer img {
+    width: 250px;  /* Cambia 100px por el tamaño deseado */
+    height: auto;  /* Mantiene la relación de aspecto */
+}
+
+.footer {
+    background-color: beige;
+}
