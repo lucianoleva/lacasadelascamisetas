@@ -27,14 +27,6 @@
     padding-top: 30px;
 }
 
-.kaka img {
-    width: 400px;
-    height: auto;
-    position: relative;
-    right: -80px;
-    transform: translateY(-350px);
-}
-
 .face img {
     width: 700px;
     height: auto;
@@ -46,4 +38,13 @@
 .button button {
     width: 90px;
     height: auto;
+}
+
+.descuentos img {
+    width: 250px;  /* Cambia 100px por el tamaño deseado */
+    height: auto;  /* Mantiene la relación de aspecto */
+}
+
+.neymar h2{
+    padding-bottom: 50px;
 }
